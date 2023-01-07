@@ -1,2 +1,5 @@
 streamlit
 pickle
+numpy
+pandas
+scikit-learn
